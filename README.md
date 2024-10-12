@@ -22,3 +22,16 @@ At its roots, KTP Coding Camps has three main objectives. The first objective is
 The second objective of KTP Coding Camps is to provide foundational coding skills. The target audience for this event is all college students on campus, regardless of major, prior experience, or year in school. KTP Coding Camps will provide basic, short, curriculum lessons on four coding languages - Java, Python, R Studio and C++. The lessons for each of these languages will encompass foundational knowledge that will allow participants to feel somewhat comfortable with the basics of these languages, and how each one can be uniquely used in certain situations. 
 
 The third objective of KTP Coding Camps is to create a greater awareness of the practical applications of coding. This will involve a presentation of how coding can be useful in your life, as well as how it can be applied in a variety of different job industries. This will show students that coding can be applicable in many jobs, not just those relating to computer science.
+
+## What does Success Look Like?
+The success of this project will be evaluated through several key factors, including class turnout, the quality of the sessions, student feedback from provided forms, and the timely completion of tasks.
+
+For class turnout, as we plan to hold weekly classes, each covering a different programming language over a four week period, our goal is to bring in at least 15-20 students per week who are interested in learning the fundamentals of the featured language.
+
+Regarding the quality of the sessions, we are aiming to produce high quality classes that can possibly be re-ran in the future. This means that our curriculum should be well-structured, engaging, and adaptable. The lessons should offer clear objectives, practical applications, and opportunities for interactive learning. Additionally, we aim to create materials that are easy to update, ensuring that they can be reused in future sessions with minimal adjustments.
+
+I believe that student feedback is another good way to measure our success in this project. At the end of lessons we will have the students fill out a quick form about what they thought of the class, how helpful it was and how much they would recommend it to another student looking to learn basic coding skills in an important language.
+
+Tasks should also be completed in a timely manner throughout the entirety of the project. This means that objectives should be completed by their various due dates, and that if a due date is not met, it should be met as quickly as possible.
+
+If all of these key factors come to fruition then we would declare this project a success. However, as class turnout can be unpredictable, although we hope for at least 15-20 students a week, if this doesn’t come to fruition but everything else does then we believe we can still consider the project mostly a success and that the way it is advertised should be remodeled.
