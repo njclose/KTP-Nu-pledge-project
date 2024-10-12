@@ -1,5 +1,4 @@
-# KTP-pledge-project
-The various curriculum files for the project written in markdown
-
-## Test
-Test to see if changes push correctly
+# KTP Pledge Project
+## Contributors
+Project Lead: Nicholas Close
+Other Members: Shaela Rhodes, Aaron Duong, Linley Denslow
