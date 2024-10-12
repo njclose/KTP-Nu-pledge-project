@@ -1,1 +1,2 @@
-
+10/12/2024 2:50
+Edited the R curriculum to include loops
