@@ -1,3 +1,7 @@
+10/12/2024 - 4:40 PM - Nicholas Close
+  - Created project "KTP Pledge Project"
+  - Edited "changelog.txt"
+
 10/12/2024 - 12:31 PM - Nicholas Close
   - Created repository KTP-pledge-project
   - Created file "ReadMe.md"
@@ -14,8 +18,4 @@
   - Moved file "Python_Curriculum.md" to folder "Python"
   - Moved file "Java_Curriculum.md" to folder "Java"
   - Moved file "C++_Curriculum.md" to folder C++"
-  - Edited "changelog.txt"
-  
-  10/12/2024 - 4:40 PM - Nicholas Close
-  - Created project "KTP Pledge Project"
   - Edited "changelog.txt"
