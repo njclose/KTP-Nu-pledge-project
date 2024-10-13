@@ -1,2 +1,4 @@
+# Links
 Link to website: [njclose.github.io/KTP-pledge-project-website/](https://njclose.github.io/KTP-pledge-project-website/)
-[Link to Website GitHub Data](https://github.com/njclose/KTP-pledge-project-website)
+
+GitHub Website Repository: [github.com/njclose/KTP-pledge-project-website](https://github.com/njclose/KTP-pledge-project-website)
