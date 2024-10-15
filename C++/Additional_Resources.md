@@ -3,6 +3,6 @@
 - LearnCPP -  [www.learncpp.com](https://www.learncpp.com)
 - StudyPlan.dev - [www.studyplan.dev](https://www.studyplan.dev/cpp)
 
-### Reference Guides:
+### Reference Guide:
 - C++ Reference - [en.cppreference.com](https://en.cppreference.com/w/)
 
