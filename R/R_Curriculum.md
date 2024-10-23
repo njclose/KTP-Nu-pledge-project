@@ -17,41 +17,30 @@
 <details>
   <summary> </summary>
 
-  ## Section 3: R Fundamentals (35 Minutes)
-  #### -What is a vector
-  #### -Numeric, character, and logical data types
-  #### -print()
-  #### -seq()
-  #### -rep()
-  #### -c()
-  #### -Indexing from a vector 
+  ## Section 3: Data Structures (30 Minutes)
+  #### -Vectors, Lists, and Data Frames (10 minutes)
+  #### -Accessing and Modifying Data (10 minutes)
+  #### -Basic Data Operations (10 minutes)
 </details>
 <details>
   <summary> </summary>
 
-  ## Section 4: Basic functions (15 Minutes)
-  #### -mean()
-  #### -sum()
-  #### -min()
-  #### -max()
-  #### -length()
+  ## Section 4: Graphics (20 Minutes)
+  #### -Introduction to ggplot2 (10 minutes)
+  #### -Customizing Plots (10 minutes)
 </details>
 <details>
   <summary> </summary>
 
-  ## Section 5: Reading in a CSV data file (15 Minutes)
-  #### -read.csv()
-  #### -Where to find csv file in R Studio
-  #### -How to import csv file into R Studio
-  #### -Looking at the data using glimpse()
+  ## Section 5: Statistics (25 Minutes)
+  #### -Descriptive Statistics (10 minutes)
+  #### -Basic Inferential Statistics (15 minutes)
 </details>
 <details>
   <summary> </summary>
 
-  ## Section 6: Basic Data Plotting (20 Minutes) 
-  #### -ggplot
-  #### -How to create a basic histogram
-  #### -Renaming x and y axis 
-  #### -Giving the plot a title 
-  #### -Changing the color of the data visualization
+  ## Section 6: Examples and Hands-on Practice (20 Minutes)
+
+  #### -Real-world Data Examples
+
 </details>
