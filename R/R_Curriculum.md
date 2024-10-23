@@ -1,18 +1,18 @@
 <details>
-  <summary> # R Class Curriculum (2 Hours and 5 Minutes) </summary>
+  <summary> # R Class Curriculum (2 Hours and 40 Minutes) </summary>
 
-  ## Section 1: Overview (10 Minutes)
-  #### -Brief description of R
-  #### -How R is used in business settings 
+  ## Section 1: Why and What Is R and Download R (25 Minutes)
+  #### -Description of R and how it's being used
+  #### -Downloading and Installing R & R Studio 
 </details>
 <details>
   <summary> </summary>
 
-  ## Section 2: Downloading R and R Studio (20 Minutes)
-  #### -Description of what R and R Studio are
-  #### -Creating a new R Script
-  #### -Renaming R script 
-  #### -Walk through of R Studio - where files and plots are stored, etc.
+  ## Section 2: Basic Syntax (40 Minutes)
+  #### -Variables (10 minutes)
+  #### -Data Types (10 minutes)
+  #### -Loops (10 minutes)
+  #### -Calling Functions (10 minutes)
 </details>
 <details>
   <summary> </summary>
