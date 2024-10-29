@@ -17,11 +17,11 @@
 ## Section 5: Scanners
 #### -Introduction to Scanners
 #### -Scanner example
-## Section 5: Hands-on Coding Exercises (30 minutes)
+## Section 6: Hands-on Coding Exercises (30 minutes)
 #### -Writing a simple coding program: program to calculate and display the sum of two numbers, using control flow and methods
 #### -Participants code along with guidance
 #### -Q&A and troubleshooting common errors
-## Section 6: Wrap up and Resources (15 minutes) 
+## Section 7: Wrap up and Resources (15 minutes) 
 #### -Summary of key concepts
 #### -Go over resources for further learning
 #### -Q&A Session
