@@ -14,6 +14,9 @@
 #### -Intro to classes and objects
 #### -Creating a simple class
 #### -Constructors and "this" keyword
+## Section 5: Scanners
+#### -Introduction to Scanners
+#### -Scanner example
 ## Section 5: Hands-on Coding Exercises (30 minutes)
 #### -Writing a simple coding program: program to calculate and display the sum of two numbers, using control flow and methods
 #### -Participants code along with guidance
