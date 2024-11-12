@@ -3,7 +3,7 @@
 - Brief description of Python 
 - How Python is used in business settings 
 
-## Section 2:Jupyter Notebooks (20 Minutes)
+## Section 2: Jupyter Notebooks (20 Minutes)
 - Brief description of Jupyter Notebooks 
 - How to open a Jupyter notebook 
 - Connecting to a runtime 
@@ -22,7 +22,6 @@
 - (print) function
 - (input) function
 - f string syntax 
-
 
 ## Section 5: Basics of Control Flow (25 Minutes)
 - if, else, and elif 
