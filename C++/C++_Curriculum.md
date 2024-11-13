@@ -27,7 +27,7 @@
 - Expain use of `break;` statement
 
 ## Section 6: Functions (35 minutes):
-- Explain how to difine and call functions
+- Explain how to define and call functions
 - Introduce function parimeters and return types
 - Explain scope and lifetime of variables
 
